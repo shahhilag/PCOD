@@ -1,0 +1,8 @@
+Analyse the Time Complexity and Space Complexity of all the question given in previous class.
+
+1.https://www.interviewbit.com/problems/nestedcmpl3/
+2.https://www.interviewbit.com/problems/gcdcmpl/
+3.https://www.interviewbit.com/problems/loopcmpl2/
+4.https://practice.geeksforgeeks.org/problems/prime-number2314/1
+5.https://practice.geeksforgeeks.org/problems/find-prime-numbers-in-a-range4718/1
+6.https://practice.geeksforgeeks.org/problems/sum-of-digits1742/1
