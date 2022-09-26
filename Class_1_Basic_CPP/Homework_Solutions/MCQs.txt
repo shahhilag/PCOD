@@ -1,0 +1,9 @@
+1. d:True - As true is a reserved keyword we cannot use it as a variable name
+2. c:String _mTf5D_Hh="hello"; - As "_" is the only special operator which can be used to start the variable name.
+3. c:double - Because double can store upto 8 bytes of data.
+4. b:5 - because typecasting to (int) will return an integer.
+5. b:F - as a character will return a character and the ASCII value of A is 65 to which on addition of 5 we get 70 which is the ASCII value of F.
+6. c:-- - "--" is the correct unary operator as a & b are logical and relational operator respectively and d is arithmetic operator.
+7. b:1 - This is because the addition operation will occur first resulting in sum of b+c making equal to a which will return true or 1.
+8. c:2 - The output will be 2 because, var2=1 and 1!=var1 i.e.1!=5 thus the else loop will run which will output var2+1 i.e. 2 because var2=1
+9. b:"hi" - "hi" will be printed because c is greatest among all the variables.
