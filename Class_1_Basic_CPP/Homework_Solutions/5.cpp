@@ -33,3 +33,6 @@ int main()
     return 0; 
 } 
 // } Driver Code Ends
+
+//Time Complexity - O(1)
+//Space Complexity - O(1) [O(11) to be precise but 11 is constant thus O(1)] 

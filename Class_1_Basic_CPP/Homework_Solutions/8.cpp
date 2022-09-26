@@ -12,3 +12,6 @@ int main() {
     }
     return 0;
 }
+
+//Time Complexity - O(E) [There will be two solutions O(E) and O((E-S)/W) but as O is the worst case complexity and E>(E-S)/W thus we consider worst case complexity as O(E)]
+//Space Complexity - O(1)

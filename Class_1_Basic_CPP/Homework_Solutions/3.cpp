@@ -41,3 +41,6 @@ int main() {
 	return 0;
 }
 // } Driver Code Ends
+
+//Time Complexity - O(1)
+//Space Complexity - O(1)

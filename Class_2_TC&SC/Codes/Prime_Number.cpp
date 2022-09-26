@@ -19,3 +19,6 @@ int main()
 	isPrime(15) ? cout << " true\n" : cout << " false\n";
 	return 0;
 }
+
+//Time Complexity - O(N)
+//Space Complexity - O(1)

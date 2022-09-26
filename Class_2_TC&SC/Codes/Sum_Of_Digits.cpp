@@ -22,3 +22,6 @@ int main()
 	cout << g.getSum(n);
 	return 0;
 }
+
+//Time Complexity - O(Number of digits in N)
+//Space Complexity - O(1)

@@ -16,3 +16,6 @@ int main()
 	cout << getSum(st);
 	return 0;
 }
+
+//Time Complexity - O(Length of String)
+//Space Complexity - O(1)

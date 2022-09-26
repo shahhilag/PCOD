@@ -22,4 +22,5 @@ int main()
     return 0;
 }
 
-//Time Complexity- O(N)
+//Time Complexity- O(N) [O(N-1) to be precise but we drop constant]
+//Space Complexity - O(1)
