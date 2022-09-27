@@ -1,0 +1,8 @@
+1. https://practice.geeksforgeeks.org/problems/c-stl-set-1-vector/1
+2. https://practice.geeksforgeeks.org/problems/c-stl-set-2-pair/1
+3. https://practice.geeksforgeeks.org/problems/c-stl-set-3-map/1
+4. https://practice.geeksforgeeks.org/problems/c-stl-list/1
+5. https://practice.geeksforgeeks.org/problems/c-stl-set-5-queue/1
+6. https://practice.geeksforgeeks.org/problems/deque-implementations/1
+7. https://practice.geeksforgeeks.org/problems/c-stl-set-4-stack/1
+8. https://practice.geeksforgeeks.org/problems/c-stl-priority-queue/1
