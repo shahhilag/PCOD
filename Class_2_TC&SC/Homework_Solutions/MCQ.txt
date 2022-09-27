@@ -1,0 +1,61 @@
+1. c:O(N) - If we observe carefully outer loop runs  Log(N) times 
+
+N → N/2 → N/4 → … → 1
+then the inner loop is also bound to ’ i ’ that’s why it is also Log(N)
+the total complexity becomes near about ( Log(N) * Log(N) ) —> eq1
+lets assume N = 16
+put this value in equation 1
+= ( Log 16 )^2
+= ( Log (2) ^4 ) ^ 2
+= ( 4 Log 2 ) ^ 2
+= ( 4 ) ^ 2                      {  (Log 2) = 1; }
+= 16 
+
+the answer value is nothing but N itself  so we can write it as O (N);
+
+2. a:O(logn) - Here , if we think carefully when we divide a Greater number ‘a’ by another Smaller number ‘b’ , the largest Remainder is (b - 1).
+
+Example :
+
+if a = 15 , b=8 , then r = (a % b) = 7
+
+Now (a/2) = (15/2) = 7
+
+so r = (a/2)
+
+Now if we have any Other Number like a = 14 or a =13 or …less than that …
+
+Then r = (14 % 8) = 6 is less than (14 / 2) = 7.
+or (13 % 8) = 5 is less than (13 / 2) = 6.
+
+Thus r is at most r = a / 2 or r < (a / 2).
+
+Thus , at every step value of the greater number is reduced to (Half) or (Less Than half).
+Now Worst Case Complexity Is When r = ( a / 2 ) in every Iteration .
+
+This Is similar To a Loop Where for(i=n ; i >0 ; i/=2).
+
+So Worst Time Complexity is O(log N) .
+
+=> THE WORST CASE HAPPENS WHEN :
+
+The 2 numbers are Fibonacci numbers.
+And the remainder when we divide a Fibonacci number by another is another Fibonacci number.
+
+EG : 8 AND 13.
+
+(13 % 8) = 5 which is the previous fibonacci number of 8.
+
+Same way : (8 % 5) = 3 , (5 % 3) = 2 , (3 % 2) = 1 , (2 % 1) = 0.
+
+And log(N) = log8(base 2) = 3
+No of steps = 4 = log(N) + 1
+Remove Constants We Get Worst Complexity = log(N)
+
+3. b:O(NlogN) - The inner loop is not dependent on the outer loop.
+
+Take an example,
+Let n = 1024. So the first loop will run 512 times. (n/2 to n)
+Therefore, the inner loop will have a complexity of O(log(N)) as the increment is obtained by multiplying the iterator by 2.
+
+Thus, the total complexity is O(N*Log(N))
