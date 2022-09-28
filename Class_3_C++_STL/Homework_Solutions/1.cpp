@@ -7,7 +7,6 @@ void add_to_vector(vector<int> &A,int x);
 
 void sort_vector_asc(vector<int> &A);
 
-
 void reverse_vector(vector<int> &A);
 
 int size_of_vector(vector<int> &A);
