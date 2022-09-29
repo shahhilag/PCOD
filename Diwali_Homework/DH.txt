@@ -1,0 +1,24 @@
+Patterns
+
+1. https://practice.geeksforgeeks.org/problems/square-pattern/1
+2. https://practice.geeksforgeeks.org/problems/right-triangle/1
+3. https://practice.geeksforgeeks.org/problems/triangle-number/1
+4. https://practice.geeksforgeeks.org/problems/triangle-number-1661428795/1
+5. https://practice.geeksforgeeks.org/problems/triangle-pattern/1
+6. https://practice.geeksforgeeks.org/problems/triangle-number-1661489840/1
+7. https://practice.geeksforgeeks.org/problems/triangle-pattern-1661492263/1
+8. https://practice.geeksforgeeks.org/problems/triangle-pattern-1661493231/1
+9. https://practice.geeksforgeeks.org/problems/pattern/1
+10. https://practice.geeksforgeeks.org/problems/triangle-pattern-1661718013/1
+11. https://practice.geeksforgeeks.org/problems/triangle-pattern-1661718455/1
+12. https://practice.geeksforgeeks.org/problems/double-triangle-pattern-1662664259/1
+13. https://practice.geeksforgeeks.org/problems/triangle-pattern-1661718712/1
+14. https://practice.geeksforgeeks.org/problems/triangle-pattern-1662284916/1
+15. https://practice.geeksforgeeks.org/problems/triangle-pattern-1662285196/1
+16. https://practice.geeksforgeeks.org/problems/triangle-pattern-1662285334/1
+17. https://practice.geeksforgeeks.org/problems/triangle-pattern-1662285911/1
+18. https://practice.geeksforgeeks.org/problems/triangle-pattern-1662286302/1
+19. https://practice.geeksforgeeks.org/problems/double-triangle-pattern/1
+20. https://practice.geeksforgeeks.org/problems/double-triangle-pattern-1662287416/1
+21. https://practice.geeksforgeeks.org/problems/square-pattern-1662287714/1
+22. https://practice.geeksforgeeks.org/problems/square-pattern-1662666141/1
