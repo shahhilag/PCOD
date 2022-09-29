@@ -4,18 +4,19 @@
 using namespace std;
 
 // } Driver Code Ends
-class Solution {
-  public:
-    void printSquare(int n) {
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<n;j++)
-            {
-                cout<<"*"<<" ";
-            }
-            cout<<endl;
-        }
-    }
+class Solution{
+public:
+	
+	void printTriangle(int n) {
+	    for(int i=0;i<n;i++)
+	    {
+	        for(int j=i;j<n;j++)
+	        {
+	            cout<<"*"<<" ";
+	        }
+	        cout<<endl;
+	    }
+	}
 };
 
 //{ Driver Code Starts.
@@ -26,9 +27,9 @@ int main() {
     while (t--) {
         int n;
         cin >> n;
-
+        
         Solution ob;
-        ob.printSquare(n);
+        ob.printTriangle(n);
     }
     return 0;
 }

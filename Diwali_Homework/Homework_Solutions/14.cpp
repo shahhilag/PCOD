@@ -6,12 +6,14 @@ using namespace std;
 // } Driver Code Ends
 class Solution {
   public:
-    void printSquare(int n) {
+    void printTriangle(int n) {
         for(int i=0;i<n;i++)
         {
-            for(int j=0;j<n;j++)
+            char alphabet='A';
+            for(int j=0;j<i+1;j++)
             {
-                cout<<"*"<<" ";
+                cout<<alphabet;
+                alphabet++;
             }
             cout<<endl;
         }
@@ -28,7 +30,7 @@ int main() {
         cin >> n;
 
         Solution ob;
-        ob.printSquare(n);
+        ob.printTriangle(n);
     }
     return 0;
 }

@@ -7,13 +7,14 @@ using namespace std;
 class Solution {
   public:
     void printSquare(int n) {
-        for(int i=0;i<n;i++)
+        for(int i=1-n;i<n;i++)
         {
-            for(int j=0;j<n;j++)
+            for(int j=1-n;j<n;j++)
             {
-                cout<<"*"<<" ";
+                if(abs(i)>abs(j)) cout<< abs(i)+1<<" ";
+                else cout<< abs(j)+1<<" ";
             }
-            cout<<endl;
+            cout << endl;
         }
     }
 };
