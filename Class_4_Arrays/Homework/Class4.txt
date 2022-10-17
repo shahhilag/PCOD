@@ -1,0 +1,6 @@
+1. https://leetcode.com/problems/max-consecutive-ones/
+2. https://leetcode.com/problems/missing-number/
+3. https://leetcode.com/problems/move-zeroes/
+4. https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1
+5. https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-numbers4629/1
+6. https://www.geeksforgeeks.org/program-check-array-sorted-not-iterative-recursive/
